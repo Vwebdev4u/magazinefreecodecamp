@@ -1,1 +1,1 @@
-Magazine deeloped in the FreeCodeCamp course.
+Magazine developed during the FreeCodeCamp course.
